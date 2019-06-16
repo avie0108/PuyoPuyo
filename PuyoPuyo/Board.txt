@@ -1,0 +1,30 @@
+#x0x0		 // Coming up Garbage
+-----------
+|pppppp||j|
+|pppppp||j|
+|pppppp||-| // Next Up
+|pppppp||k| // will be filled in with next
+|pppppp||k|
+|pppppp||-|
+|pppppp|	 // Playing Field
+|pppppp|	 // will be filled in with field
+|pppppp|
+|pppppp|
+|pppppp|
+|pppppp|
+--------
+score:
+000000000000 // Score
+------------
+|SigguSiggu| // Spell
+------------
+
+up:		1
+		0
+
+left:	10
+
+down:	0
+		1
+
+right:	01
